@@ -1,4 +1,4 @@
-# 👋 Hello, I'm a Xavier
+# 👋 Hello, I'm Xavier
 
 ## Front-end Developer
 
