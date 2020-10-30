@@ -1,45 +1,27 @@
 # Hello 👋, I'm a Front-end Developer
 
 ```javascript
-class AboutMe extends React.Component {
-  constructor(props) {
-    super(props);
+import React, { useState } from "react";
 
-    this.state = {
-      languages: [],
-      tools: [],
-      devOps: [],
-      methods: [],
-    };
-  }
+function AboutMe() {
+  const [languages, setLanguages] = useState([
+    "javascript",
+    "typescript",
+    "php",
+    "html",
+    "scss",
+  ]);
+  const [tools, setTools] = useState([
+    "flow",
+    "redux",
+    "reactjs",
+    "react-native",
+    "jest",
+  ]);
+  const [devOps, setDevOps] = useState(["github-actions", "docker"]);
+  const [methods, setMethods] = useState(["scrum", "tdd"]);
 
-  handleLanguages() {
-    this.setState({
-      languages: ["javascript", "typescript", "php", "html", "scss"],
-    });
-  }
-
-  handleTools() {
-    this.setState({
-      tools: ["flow", "redux", "reactjs", "react-native", "jest"],
-    });
-  }
-
-  handleDevOps() {
-    this.setState({
-      devOps: ["github-actions", "docker"],
-    });
-  }
-
-  handleMethods() {
-    this.setState({
-      methods: ["scrum", "tdd"],
-    });
-  }
-
-  render() {
-    return null;
-  }
+  return null;
 }
 ```
 
