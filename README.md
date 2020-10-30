@@ -5,7 +5,7 @@
 ```javascript
 import React, { useState } from "react";
 
-function AboutMe() {
+export default function AboutMe() {
   const [languages, setLanguages] = useState([
     "javascript",
     "typescript",
