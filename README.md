@@ -1,4 +1,4 @@
-# Hello 👋, I'm Xavier Briole
+# Hello 👋, I'm a Front-end Developer
 
 ```javascript
 class AboutMe extends React.Component {
