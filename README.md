@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Xavier
 
-## Front-end Developer
+## 👨‍💻 Front-end Developer
 
 ```javascript
 import React, { useState } from "react";
@@ -30,4 +30,4 @@ function AboutMe() {
 ## 📊 Statistics
 
 ![xavierbriole's github stats](https://github-readme-stats.vercel.app/api?username=xavierbriole&show_icons=true&hide=stars)
-[![xavierbriole's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xavierbriole)](https://github.com/anuraghazra/github-readme-stats)
+![xavierbriole's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xavierbriole)
