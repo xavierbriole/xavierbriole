@@ -9,7 +9,6 @@ export default function AboutMe() {
   const [languages, setLanguages] = useState([
     "javascript",
     "typescript",
-    "php",
     "html",
     "scss",
   ]);
