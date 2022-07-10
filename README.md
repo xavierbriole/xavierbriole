@@ -18,6 +18,7 @@ export default function AboutMe() {
     "reactjs",
     "react-native",
     "jest",
+    "react-testing-library",
   ]);
   const [devOps, setDevOps] = useState(["github-actions", "docker"]);
   const [methods, setMethods] = useState(["scrum", "tdd"]);
