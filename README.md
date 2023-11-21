@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Front-end Developer
 
-```javascript
+```tsx
 import React, { useState } from "react";
 
 export default function AboutMe() {
