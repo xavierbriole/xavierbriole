@@ -30,4 +30,3 @@ export default function AboutMe() {
 ## 📊 Statistics
 
 ![xavierbriole's github stats](https://github-readme-stats.vercel.app/api?username=xavierbriole&show_icons=true&hide=stars)
-![xavierbriole's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xavierbriole)
